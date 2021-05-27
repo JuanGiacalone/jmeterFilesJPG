@@ -50,7 +50,7 @@
             <collectionProp name="Asserion.test_strings">
               <stringProp name="49586">200</stringProp>
             </collectionProp>
-            <stringProp name="TestPlan.comments">200 is okey</stringProp>
+            <stringProp name="TestPlan.comments">200 is okeysnt</stringProp>
             <stringProp name="Assertion.test_field">Assertion.response_code</stringProp>
             <boolProp name="Assertion.assume_success">false</boolProp>
             <intProp name="Assertion.test_type">8</intProp>
